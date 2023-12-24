@@ -77,8 +77,8 @@ const Home = () => {
             </div>
             <footer>
                 <h4>
-                    Built &nbsp; by &nbsp;
-                    <a href="https://github.com/nexascoder">Paridhi Gupta</a>
+                    Built&nbsp;by&nbsp;
+                    <a href="https://github.com/nexascoder">Yashvi Garg</a>
                 </h4>
             </footer>
         </div>
